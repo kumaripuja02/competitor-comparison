@@ -25,16 +25,6 @@ The project focuses purely on **front-end development** and does not include any
 ---
 
 ## 📂 Project Structure
-competitor-comparison/
-│
-├── index.html
-├── css/
-│ └── style.css
-└── README.md
-
-
----
-
 ## 📑 Features Implemented
 
 ### 1️⃣ Hero Section
@@ -97,5 +87,6 @@ This project is suitable for:
 
 ## 📌 Author
 **Puja Kumari**  
+
 
 
